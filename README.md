@@ -1,2 +1,2 @@
 # app-noticias
-App Web NodeJS e MongoDB
+App Web NodeJS e MySQL
